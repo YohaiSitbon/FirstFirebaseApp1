@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936006547630",
+    "project_id": "first-firebase-app-178bb",
+    "storage_bucket": "first-firebase-app-178bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936006547630:android:c4a87f9f82b9335903953f",
+        "android_client_info": {
+          "package_name": "co.il.sitbon.firstfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936006547630-ug2okrg0arlupq43074agnijrjj6odo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASTRRRo_TDb5nPv5oIDFVFFUldiaJYSsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936006547630-ug2okrg0arlupq43074agnijrjj6odo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
